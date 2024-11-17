@@ -1,0 +1,8 @@
+﻿  3.cpp
+C:\Users\郑铭俊\Desktop\3\3.cpp(16,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\郑铭俊\Desktop\3\3.cpp(120,16): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\郑铭俊\Desktop\3\3.cpp(28,27): warning C4101: “left_rel_c”: 未引用的局部变量
+C:\Users\郑铭俊\Desktop\3\3.cpp(28,10): warning C4101: “left_c”: 未引用的局部变量
+C:\Users\郑铭俊\Desktop\3\3.cpp(28,39): warning C4101: “right_rel_c”: 未引用的局部变量
+C:\Users\郑铭俊\Desktop\3\3.cpp(28,18): warning C4101: “right_c”: 未引用的局部变量
+  3.vcxproj -> C:\Users\郑铭俊\Desktop\3\x64\Debug\3.exe
